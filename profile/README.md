@@ -8,12 +8,12 @@ Centre for PROcessing MEDieval TEXTs (ProMeText) — medieval corpora & alignmen
 
 We've created a golden standard dataset for phrase segmentation: see our [multilingual-segmentation-dataset](https://github.com/ProMeText/multilingual-segmentation-dataset). To cite this work: 
 
-> Ing, L., Levenson, M. G., & Macedo, C. (2026). Phrase-Level Segmentation on Medieval Corpora for Aligning Multilingual Texts. In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 936–946). European Language Resources Association (ELRA). https://doi.org/10.63317/32huzuuokpfr.
+> Ing, L., Gille Levenson, M., & Macedo, C. (2026). Phrase-Level Segmentation on Medieval Corpora for Aligning Multilingual Texts. In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 936–946). European Language Resources Association (ELRA). https://doi.org/10.63317/32huzuuokpfr.
 
 ```
 @inproceedings{ing-etal-2026-phrase,
   title = {Phrase-Level Segmentation on Medieval Corpora for Aligning Multilingual Texts},
-  author = {Ing, Lucence and Levenson, Matthias Gille and Macedo, Carolina},
+  author = {Ing, Lucence and Gille Levenson, Matthias and Macedo, Carolina},
   booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
   month = {May},
   year = {2026},
