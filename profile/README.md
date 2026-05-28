@@ -1,6 +1,19 @@
 # ProMedTEXT
 
-Centre for PROcessing MEDieval TEXTs (ProMeText) — medieval corpora & alignment tools
+Centre for PROcessing MEDieval TEXTs (ProMeText) — medieval corpora & alignment tools. 
+
+We provide methods and data to align (mostly) medieval romance texts (13th-16th centuries). 
+
+Supported languages:
+- latin
+- french
+- castilian
+- portuguese
+- catalan
+- english
+- italian
+
+Feel free to contact us if you want to add more languages ! 
 
 ## Data
 
@@ -28,6 +41,7 @@ We've created a golden standard dataset for phrase segmentation: see our [multil
 
 ### Gold standard alignment data
 
+Work In Progress...
 
 ## Tools
 
