@@ -35,7 +35,7 @@ We've created a golden standard dataset for phrase segmentation: see our [multil
 
 Aquilign allows to align multilingual texts at the "sentence" level. The source code can be found here: [Aquilign](https://github.com/ProMeText/Aquilign). To cite this work: 
 
-> Gille Levenson, Matthias, Lucence Ing, & Jean-Baptiste Camps, « Textual Transmission without Borders: Multiple Multilingual Alignment and Stemmatology of the ``Lancelot en prose’’ (Medieval French, Castilian, Italian) », Proceedings of the Computational Humanities   Research Conference 2024, 3834, 2024, p. 65‑92, Aarhus : CEUR (CEUR Workshop Proceedings), 2024, p. 65‑92, en ligne : [URL] [https://ceur-ws.org/Vol-3834/paper104.pdf] [consulté le 9/12/2024].
+> Gille Levenson, Matthias, Lucence Ing, & Jean-Baptiste Camps, « Textual Transmission without Borders: Multiple Multilingual Alignment and Stemmatology of the ``Lancelot en prose’’ (Medieval French, Castilian, Italian) », Proceedings of the Computational Humanities   Research Conference 2024, 3834, 2024, p. 65‑92, Aarhus : CEUR (CEUR Workshop Proceedings), 2024, p. 65‑92, en ligne : [URL] [https://ceur-ws.org/Vol-3834/paper104.pdf].
 
 ```
 @inproceedings{gillelevensonTextualTransmissionBorders2024,
