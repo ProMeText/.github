@@ -4,10 +4,10 @@ Centre for PROcessing MEDieval TEXTs (ProMeText) — medieval corpora & alignmen
 
 ## Data
 
-### Segmentation data
+### Gold standard segmentation data
 
 
-### Alignment data
+### Gold standard alignment data
 
 
 ## Tools
