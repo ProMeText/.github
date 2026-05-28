@@ -2,7 +2,7 @@
 
 Centre for PROcessing MEDieval TEXTs (ProMeText) — medieval corpora & alignment tools. 
 
-We provide methods and data to align (mostly) medieval romance texts (13th-16th centuries). 
+We provide methods, tools and data to align medieval romance texts (13th-16th centuries). 
 
 Supported languages:
 - latin
