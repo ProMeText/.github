@@ -1,6 +1,6 @@
-[![Paper: CHR 2024](https://img.shields.io/badge/📄_Paper-CHR%202024-blue)](https://ceur-ws.org/Vol-3834/paper104.pdf)
-[![Paper](https://img.shields.io/badge/paper-LREC2026-blue)](https://doi.org/10.63317/32HUZUUOKPFR)
-[![Dataset](https://img.shields.io/badge/dataset-Zenodo-blue)](https://doi.org/10.5281/zenodo.16992629)
+[![Paper: CHR 2024](https://img.shields.io/badge/Paper-CHR%202024-blue)](https://ceur-ws.org/Vol-3834/paper104.pdf)
+[![Paper: LREC 2026](https://img.shields.io/badge/Paper-LREC%202026-blue)](https://doi.org/10.63317/32HUZUUOKPFR)
+[![Dataset: Zenodo](https://img.shields.io/badge/Dataset-Zenodo-blue)](https://doi.org/10.5281/zenodo.16992629)
 
 # ProMeTEXT
 
@@ -89,7 +89,11 @@ Ing, L., Gille Levenson, M., & Macedo, C. (2026). Phrase-Level Segmentation on M
 
 ### Gold-Standard Alignment Data
 
-Gold-standard alignment data is currently under development.
+We provide gold-standard alignment data for parallel medieval and historical texts through the following repository:
+
+- [parallelium-scriptures-alignment-dataset](https://github.com/ProMeText/parallelium-scriptures-alignment-dataset)
+
+Other parallel corpora and alignment datasets are currently under construction.
 
 ## Tools
 
