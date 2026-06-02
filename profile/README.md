@@ -1,6 +1,7 @@
 [![Paper: CHR 2024](https://img.shields.io/badge/Paper-CHR%202024-blue)](https://ceur-ws.org/Vol-3834/paper104.pdf)
 [![Paper: LREC 2026](https://img.shields.io/badge/Paper-LREC%202026-blue)](https://doi.org/10.63317/32HUZUUOKPFR)
 [![Dataset: Zenodo](https://img.shields.io/badge/Dataset-Zenodo-blue)](https://doi.org/10.5281/zenodo.16992629)
+[![Model: Segmenter](https://img.shields.io/badge/Model-Segmenter-yellow)](https://huggingface.co/ProMeText/aquilign-multilingual-segmenter)
 
 # ProMeTEXT
 
